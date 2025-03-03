@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; // ✅ Keep this if using hooks
 import ReactDOM from "react-dom/client";
 import { ChakraProvider } from "@chakra-ui/react";
 import App from "./App";
