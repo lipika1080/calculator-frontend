@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Box, Button, Input, Select, VStack, Text } from "@chakra-ui/react";
+import { Button, Input, Select, VStack, Text } from "@chakra-ui/react";
 import { calculate } from "../api";
 
 const Calculator = () => {
